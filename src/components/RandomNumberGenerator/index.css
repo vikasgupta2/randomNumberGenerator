@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.bg-container {
+  height: 100vh;
+  background-size: cover;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.count {
+  color: #0b69ff;
+  font-weight: 500;
+  font-size: 35px;
+}
